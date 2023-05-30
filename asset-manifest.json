@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.15eb2ff8.css",
+    "main.js": "/static/js/main.05e9d3dd.js",
+    "static/media/whatDeFi.svg": "/static/media/whatDeFi.058d0baa652b6f3c698efabf216de0dd.svg",
+    "static/media/news1.svg": "/static/media/news1.9413d25568879e9d51162c606e198886.svg",
+    "static/media/project.svg": "/static/media/project.927e1ed5a73740e419f0ed19a7d951e6.svg",
+    "static/media/img3.svg": "/static/media/img3.83c8f57928137c74ca35f4beb191ce72.svg",
+    "static/media/img2.svg": "/static/media/img2.fa1ee8df5c5a6e6318c9c75fb6aecf5b.svg",
+    "static/media/img1.svg": "/static/media/img1.65fcd8c5399088e322b541803ee0fbc9.svg",
+    "static/media/team.svg": "/static/media/team.f940678ee15b01f89c0eb6bd8e352fde.svg",
+    "static/media/github.svg": "/static/media/github.131842fdda225742a869406f46c9c1d7.svg",
+    "static/media/telegram.svg": "/static/media/telegram.8e39962487d157afa322fdc50796d04e.svg",
+    "static/media/mission.svg": "/static/media/mission.caddf211d86521784d886351195a6920.svg",
+    "static/media/decentral.svg": "/static/media/decentral.e112ff8f46ac2302361355a0922836a5.svg",
+    "static/media/news2.svg": "/static/media/news2.00774b0cdc284e2a437ba4716e1590db.svg",
+    "static/media/MainIllustration.svg": "/static/media/MainIllustration.32a53e7cae9326f14062e6023b593b5c.svg",
+    "static/media/humanFactor.svg": "/static/media/humanFactor.6f2ee1b58c8eb645641dd145f24bde40.svg",
+    "static/media/opasity.svg": "/static/media/opasity.9520433620be2c80d0a5a41301aba1a9.svg",
+    "static/media/without3.svg": "/static/media/without3.798d7d799c456f7a0b548113dabfa7ee.svg",
+    "static/media/inclusion.svg": "/static/media/inclusion.ff35b2bc9fd0874065585db50ecb2243.svg",
+    "static/media/fund4.svg": "/static/media/fund4.efac1c439d4392aefa4eee55ee8cf75c.svg",
+    "static/media/fund6.svg": "/static/media/fund6.be02dcfb37bcf15d06f1c49c23016bcc.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.379f151d4409fcce28f419770b34f743.svg",
+    "static/media/fund5.svg": "/static/media/fund5.07bb08b931af9bcb10bd3c9e9a4d04e3.svg",
+    "static/media/twitter.svg": "/static/media/twitter.1a5187efb0fde86deab30aa8cae72c70.svg",
+    "static/media/fund3.svg": "/static/media/fund3.93dff0d4f8003698e0f8bdf44f88eea9.svg",
+    "static/media/tg.svg": "/static/media/tg.09fc3e329e13e9b41dcdaf9eb627cfd9.svg",
+    "static/media/fund7.svg": "/static/media/fund7.8982e07e38be299d6a922a31ed5cc74f.svg",
+    "static/media/fund2.svg": "/static/media/fund2.f2ca524acdee8367536a3adee309533e.svg",
+    "static/media/fund1.svg": "/static/media/fund1.46d03050161b97b2f42b8ca68d8ebe87.svg",
+    "static/media/Logo.svg": "/static/media/Logo.949fb8a17565d44f3d1e2c70c0df309f.svg",
+    "static/media/ArrowRight.svg": "/static/media/ArrowRight.b884417f27f649d964fb1466e4291e85.svg",
+    "index.html": "/index.html",
+    "main.15eb2ff8.css.map": "/static/css/main.15eb2ff8.css.map",
+    "main.05e9d3dd.js.map": "/static/js/main.05e9d3dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15eb2ff8.css",
+    "static/js/main.05e9d3dd.js"
+  ]
+}
